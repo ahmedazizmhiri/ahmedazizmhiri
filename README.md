@@ -2,165 +2,121 @@
 
 # Ahmed Aziz Mhiri
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=640&lines=Data-Driven+Marketing;Commercial+Analytics;Business+Intelligence;Process+Automation;Turning+Data+into+Commercial+Growth" alt="Typing animation"/>
+### Data-Driven Marketing · Commercial Analytics · Business Intelligence · Process Automation
 
-### Data-Driven Marketing • Commercial Analytics • Business Intelligence
-
-*Turning Data into Commercial Growth*
+I connect **data, business analysis, automation, and digital marketing** to improve commercial decisions, operational reliability, and customer journeys.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed%20Aziz%20Mhiri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-aziz-mhiri/)
-[![Email](https://img.shields.io/badge/Email-mhiriaziz13@gmail.com-1E3A5F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhiriaziz13@gmail.com)
+[![Email](https://img.shields.io/badge/Email-mhiriaziz13%40gmail.com-1E3A5F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhiriaziz13@gmail.com)
 
 </div>
 
 ---
 
-# Positioning
+## Professional positioning
 
-I connect **data, automation, and digital marketing** to commercial performance.
+I am building my career at the intersection of:
 
-My work spans tourism operations, hospitality analytics, digital growth, AI-enabled internal tools, and business intelligence—with a consistent focus on turning operational and customer data into decisions that improve customer journeys, operational reliability, and revenue.
+- **Marketing and commercial analytics**
+- **Business intelligence and decision support**
+- **Revenue and sales operations**
+- **CRM and marketing automation**
+- **Business process automation**
+- **Customer and operational insights**
 
----
-
-# What I Build
-
-### 📊 Marketing & Commercial Analytics
-
-Turning customer, campaign, and revenue data into insights that improve commercial decisions.
-
-### ⚙️ Business Process Automation
-
-Designing automation workflows that reduce manual work while increasing traceability across finance and operations.
-
-### 🌐 Digital Customer Journeys
-
-Building websites, booking systems, and digital experiences that improve acquisition and conversion.
-
-### 🤖 AI-Enabled Internal Tools
-
-Integrating locally deployed LLMs, RAG pipelines, and business systems into practical enterprise workflows.
+My objective is to turn fragmented operational and customer data into structured, traceable, and commercially useful decisions.
 
 ---
 
-# Selected Projects
+## Featured case study
 
-### RPA for Invoice Control & Booking Reconciliation
+### Tourism Invoice Control and Booking Reconciliation — RPA Case Study
 
-- UiPath automation
-- Invoice validation
-- Booking reconciliation
-- JSON outputs
-- HTML reporting
+A sanitised documentary case study of an end-to-end UiPath workflow used to structure invoice control, booking reconciliation, commercial-rule validation, exception management, and human review in a tourism context.
 
----
+**Verified public scope**
 
-### Data-Driven Digital Transformation for a Men's Barbershop
+- One end-to-end UiPath workflow
+- 40 supported hotels
+- Four supported agencies
+- Structured business-rule representations
+- Reconciliation and exception reporting
+- Human validation before final delivery
+- Synthetic examples only; no production data or workflow code
 
-- Website
-- Online booking
-- Local SEO
-- Social Media
-- Customer communication
+[View the case study](https://github.com/mhiriaziz13-gif/RPA-for-Invoice-Control-Booking-Reconciliation)
 
 ---
 
-### AI-Ready E-Learning Platform
-
-- Angular
-- Spring Boot
-- Spring Cloud
-- Keycloak
-- Docker
-- Kafka
-- RAG-powered LLaMA assistant
-
----
-
-# Current Focus
+## Current focus
 
 - Marketing Analytics
-- Commercial Analytics
+- Commercial and Sales Analytics
 - Business Intelligence
-- Digital Growth
-- AI Automation
 - Revenue Operations
+- CRM and Marketing Automation
+- Process Automation
+- AI-enabled business tools
+- Customer Insights
 
-Preparing for Europe-based opportunities from **Summer 2027**.
+I am currently completing a **Master’s degree in Big Data Analytics and E-Commerce**, with graduation expected in **2027**.
+
+**Availability**
+
+- Selected freelance and project-based work: currently open
+- International full-time opportunities: from **October 2027**
 
 ---
 
-# Core Toolkit
+## Core capabilities
 
-### 📈 Data & Business
+### Data and business analysis
 
 ![Excel](https://img.shields.io/badge/Excel-0B2545?style=flat-square)
 ![Business Intelligence](https://img.shields.io/badge/Business%20Intelligence-0B2545?style=flat-square)
 ![Marketing Analytics](https://img.shields.io/badge/Marketing%20Analytics-0B2545?style=flat-square)
 ![Commercial Analytics](https://img.shields.io/badge/Commercial%20Analytics-0B2545?style=flat-square)
 ![KPI Analysis](https://img.shields.io/badge/KPI%20Analysis-0B2545?style=flat-square)
-![Data Visualization](https://img.shields.io/badge/Data%20Visualization-0B2545?style=flat-square)
+![Data Visualisation](https://img.shields.io/badge/Data%20Visualisation-0B2545?style=flat-square)
 
-### 🤖 Automation & AI
+### Automation and reporting
 
 ![UiPath](https://img.shields.io/badge/UiPath-13496B?style=flat-square)
-![Automation](https://img.shields.io/badge/Automation-13496B?style=flat-square)
+![Process Automation](https://img.shields.io/badge/Process%20Automation-13496B?style=flat-square)
 ![JSON](https://img.shields.io/badge/JSON-13496B?style=flat-square)
+![Python](https://img.shields.io/badge/Python-13496B?style=flat-square&logo=python&logoColor=white)
 ![HTML Reporting](https://img.shields.io/badge/HTML%20Reporting-13496B?style=flat-square)
-![Ollama](https://img.shields.io/badge/Ollama-13496B?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-13496B?style=flat-square)
+![Business Rules](https://img.shields.io/badge/Business%20Rules-13496B?style=flat-square)
 
-### 💻 Development
+### Digital and application technologies
 
-![Java](https://img.shields.io/badge/Java-1E6091?style=flat-square)
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-1E6091?style=flat-square&logo=springboot&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-1E6091?style=flat-square&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-1E6091?style=flat-square&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-1E6091?style=flat-square&logo=nextdotjs&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1E6091?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1E6091?style=flat-square&logo=postgresql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-1E6091?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-1E6091?style=flat-square&logo=docker&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-1E6091?style=flat-square&logo=apachekafka&logoColor=white)
-![REST API](https://img.shields.io/badge/REST-1E6091?style=flat-square)
-
-### 📊 Monitoring
-
-![Grafana](https://img.shields.io/badge/Grafana-2E5C87?style=flat-square&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-2E5C87?style=flat-square&logo=prometheus&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-2E5C87?style=flat-square&logo=sonarqube&logoColor=white)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-2E5C87?style=flat-square)
 
 ---
 
-# GitHub Activity
-<br>
+## What I value
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mhiriaziz13-gif&theme=tokyonight&hide_border=true"/>
-
-</div>
+- Business relevance before technical complexity
+- Clear and traceable decision logic
+- Reliable data and explicit assumptions
+- Human review for uncertain or sensitive outcomes
+- Automation that supports accountability rather than hiding it
+- Honest documentation without unsupported claims
 
 ---
 
-# Connect
+## Connect
 
-I'm always interested in discussing:
-
-- Marketing Analytics
-- Commercial Analytics
-- Digital Transformation
-- Business Intelligence
-- Tourism Technology
-- AI Automation
+I am interested in conversations around data-driven marketing, commercial analytics, business intelligence, tourism technology, revenue operations, and practical automation.
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-aziz-mhiri/)
-[![Email](https://img.shields.io/badge/Email-Get%20In%20Touch-1E3A5F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhiriaziz13@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-### Built around Data • Automation • Commercial Growth
+[![Email](https://img.shields.io/badge/Email-Get%20in%20Touch-1E3A5F?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhiriaziz13@gmail.com)
 
 </div>
