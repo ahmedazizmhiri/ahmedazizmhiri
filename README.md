@@ -99,6 +99,7 @@ The work included areas such as:
 - Customer journey improvement
 
 [View repository](https://github.com/ahmedazizmhiri/Chic-Chac-Digital-Transformation-and-Data-Driven-Marketing)
+
 [View live portfolio](https://chic-chac-digital-transformation-an.vercel.app/)
 
 ---
@@ -110,6 +111,7 @@ A tourism and cultural discovery platform developed as a digital project around 
 The repository includes front-end pages, authentication flows and application logic built with web technologies and Firebase services.
 
 [View repository](https://github.com/ahmedazizmhiri/TuniCulture-Tunisia-Excursion-Booking-Platform)
+
 [View live portfolio](https://tuni-culture-tunisia-excursion-book.vercel.app/)
 
 ---
