@@ -66,7 +66,7 @@ A production-grade professional portfolio combining a public recruiter-oriented 
 
 ---
 
-### Tourism Invoice Control & Booking Reconciliation — RPA Case Study
+### Sunshine RPA and Commercial Rules Automation
 
 A sanitised case study documenting an end-to-end **UiPath automation workflow** for tourism invoice control, booking reconciliation, commercial-rule validation, exception management and human review.
 
@@ -85,7 +85,7 @@ A sanitised case study documenting an end-to-end **UiPath automation workflow** 
 
 ---
 
-### Chic-Chac — Digital Transformation Project
+### Chic-Chac Digital Transformation and Data-Driven Marketing
 
 A client-oriented digital project covering the development of a stronger online presence and digital customer journey for a men's barbershop.
 
@@ -103,7 +103,7 @@ The work included areas such as:
 
 ---
 
-### TuniCulture
+### TuniCulture — Tunisia Excursion Booking Platform
 
 A tourism and cultural discovery platform developed as a digital project around Tunisia-related experiences and customer interaction.
 
