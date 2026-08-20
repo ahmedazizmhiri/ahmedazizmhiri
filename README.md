@@ -61,7 +61,7 @@ A production-grade professional portfolio combining a public recruiter-oriented 
 - Performance and accessibility validation
 - Vercel deployment
 
-[View repository](https://github.com/mhiriaziz13-gif/Personal-Portfolio-Content-Management-Platform)  
+[View repository](https://github.com/ahmedazizmhiri/Personal-Portfolio-and-Content-Management-Platform)  
 [View live portfolio](https://ahmedaziz-portfolio.vercel.app)
 
 ---
@@ -81,7 +81,7 @@ A sanitised case study documenting an end-to-end **UiPath automation workflow** 
 - Synthetic examples only
 - No production data or production workflow code published
 
-[View repository](https://github.com/mhiriaziz13-gif/RPA-for-Invoice-Control-Booking-Reconciliation)
+[View repository](https://github.com/ahmedazizmhiri/Sunshine-RPA-and-Commercial-Rules-Automation)
 
 ---
 
@@ -98,7 +98,7 @@ The work included areas such as:
 - Digital marketing support
 - Customer journey improvement
 
-[View repository](https://github.com/mhiriaziz13-gif/Chic-Chac-Website)
+[View repository](https://github.com/ahmedazizmhiri/Chic-Chac-Digital-Transformation-and-Data-Driven-Marketing)
 
 ---
 
@@ -108,7 +108,7 @@ A tourism and cultural discovery platform developed as a digital project around 
 
 The repository includes front-end pages, authentication flows and application logic built with web technologies and Firebase services.
 
-[View repository](https://github.com/mhiriaziz13-gif/TuniCulture-Project)
+[View repository](https://github.com/ahmedazizmhiri/TuniCulture-Tunisia-Excursion-Booking-Platform)
 
 ---
 
